@@ -9,10 +9,15 @@ E-commerce dataset provided by the instructor.
 The dataset contains 5 sheets with data about 5000 record.
 ### What steps were taken in this project?
 **1.Explore the data**
+
 **2.Cleaning the data:** handing missing value,duplicates,..etc
+
 **3.EDA:** making approprite visualization to explore important features and trends
+
 **4.Data preprocessing:** to make sure that model will get reliable results
+
 **5.Model training and Evaluation:** trian the model and evaluate its accuracy to find the appropriate segment
+
 # Analysis goals
 To precisely determine which segment we will offer more coupons to increase satisfaction and loyalty.
 # Results and insights
